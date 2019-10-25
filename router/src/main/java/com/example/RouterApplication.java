@@ -5,6 +5,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.netflix.zuul.EnableZuulProxy;
 
 /**
+ * 活着真难
+ */
+
+/**
  * 手动建立启动类
  */
 @SpringBootApplication
